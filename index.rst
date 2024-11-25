@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KEYES ESP32 PLUS 开发板
+   :caption: KE3057（KE3057S） Keyes ESP32 42合1 学习套件
 
    README.md
    docs/1. 产品介绍/产品介绍.md
