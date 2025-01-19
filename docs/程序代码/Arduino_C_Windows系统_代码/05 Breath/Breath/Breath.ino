@@ -1,7 +1,7 @@
 /*
  * 名称   : Breathing Led
  * 功能   : 让led灯像呼吸一样忽明忽暗。
- * 作者   : http//www.keyestudio.com
+ * 作者   : http//www.keyes-robot.com
 */
 #define PIN_LED   5     //定义led引脚
 #define CHN       0     //定义PWM通道
