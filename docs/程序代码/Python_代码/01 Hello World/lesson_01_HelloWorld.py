@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Welcome to keyes")
+print("Welcome to Keyestudio")

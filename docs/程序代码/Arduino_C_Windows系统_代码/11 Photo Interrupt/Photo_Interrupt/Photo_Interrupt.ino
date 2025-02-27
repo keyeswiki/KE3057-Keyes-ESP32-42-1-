@@ -13,6 +13,7 @@ void setup() {
 
 void loop() {
   State = digitalRead(5);   //读取当前状态
+  delay(20);                //消抖，防止因信号抖动导致的误判，从而提高准确性
   if (State != lastState) { //如果状态与上次读取的不同
     if (State == 1) {       //遮挡光线时
       PushCounter = PushCounter + 1; //计数 + 1
