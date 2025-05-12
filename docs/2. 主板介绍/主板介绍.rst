@@ -50,7 +50,7 @@
 
 - :download:`库文件 <库文件.zip>`
 
-- :download:`其他重要资料 <其他重要资料.zip>` （Android APP，Python固件和驱动文件）
+- :download:`其他重要资料 <其他重要资料.zip>` （Android APP，Python  固件和驱动文件）
 
 常见问题解答
 ============
